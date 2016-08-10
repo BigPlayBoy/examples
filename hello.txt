@@ -15,3 +15,6 @@ this is at branch dev
 -----------
 add something at here <dev>
 -----------
+学习一下分支的操作 merge fetch pull push  
+还有远程分支的问题  如何创建什么的
+------------
